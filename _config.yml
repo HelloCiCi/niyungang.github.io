@@ -1,0 +1,26 @@
+highlighter: rouge
+line_numbers: true 
+markdown: kramdown
+kramdown:
+  input:         GFM
+  syntax_highlighter: rouge
+  auto_ids:      true
+
+# 作者信息
+author: 倪云港
+name: Neo
+email: 466605091@qq.com
+link: http://niyungang.github.io
+github: http://github.com/niyungang
+
+# 站点信息
+title: 倪云港
+description: 倪云港的博客
+url: http://niyungang.github.io
+rss_url: /pages/atom.xml
+
+# disqus 设置
+disqus:
+  shortname: niyungang
+
+# duoshuo 设置
