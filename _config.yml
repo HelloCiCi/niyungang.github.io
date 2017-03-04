@@ -2,9 +2,9 @@ highlighter: rouge
 line_numbers: true 
 markdown: kramdown
 kramdown:
-  input:         GFM
+  input: GFM
   syntax_highlighter: rouge
-  auto_ids:      true
+  auto_ids: true
 
 # 作者信息
 author: 倪云港

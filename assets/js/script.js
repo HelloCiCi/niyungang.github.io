@@ -9,11 +9,11 @@
 
 
 
-//console.log模糊
-// var _log = console.log;
-// console.log = function() {
-//   _log.call(console, '%c' + [].slice.call(arguments).join(' '), 'color:transparent;text-shadow:0 0 6px rgba(0,0,0,.5);');
-// };
+console.log模糊
+var _log = console.log;
+console.log = function() {
+  _log.call(console, '%c' + [].slice.call(arguments).join(' '), 'color:transparent;text-shadow:0 0 6px rgba(0,0,0,.5);');
+};
 
 
 // 开场进度条
@@ -71,7 +71,7 @@ $(function (){
   if( window.Notification && Notification.permission === "granted" )
   {
 
-    var n = new Notification("一分耕耘一分才",{icon:"../../../assets/img/avatar.png",body:"欢迎来到我的博客"});
+    var n = new Notification("一分耕耘一分收获",{icon:"../../../assets/img/avatar.png",body:"欢迎来到我的博客"});
   }
   else 
     if(window.Notification && Notification.permission !== "denied")
