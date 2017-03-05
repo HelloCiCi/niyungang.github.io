@@ -1,4 +1,18 @@
 /*!--------------------------------*\
+   我添加的功能
+   @author 倪云港 (Neo)
+   https://github.com/niyungang/niyungang.github.io
+\*---------------------------------*/
+window.console && console.log && console.log("%c\n               .ru0OB@@B@B@,                      \n             rB@B@BBOO08OMB@B0,                   \n           B@BBEE00qXkEPqq00OB@O                  \n         :B@8ZNEP0q0PZqEOMM@B@G@@                 \n         @BN0qNPqXq8B@@@@B@@88@@@B                \n       :B@N0PNPN0OM@B@Er ..   .Z@@u               \n      .B@Z0P0qN0OB@8.           rB@,:             \n      8@q1kNq0M@B@          7E,  :B,iE.           \n     .@805EqZB7i:         :BBr    LP vL           \n     rB@qEqqP@7           v:       F.E         ,  \n      .B8NEP0E@     ,:       ,@B:  ,@        r5X. \n       5B@ZZq0BY  SMq:        22... N        ,uv  \n        :5@BME@u Lq              . :8       SLJO  \n           UB@@@     @B@    .u     k       :5.B Z \n              PB@:   .L,    .    i@v,       k . q \n              1 :OJ,  ,ir     .iM@,:7Uujvi :S  2i \n              N:.  85j7,rU:i2uL,52 ..:  .iML   2r \n               rr7;.,G   LBr2Y7vr.,:,iP   M   :O  \n                    rr  :G. .....,:,:.:Ou0NiLvv   \n                   :X   ur ..:,:,:,:,, :B         \n                   P    8k;.,,,,,.:,,., vj        \njjuuuUuUuuuuu2u2uuY@i  F@@q2U52155251S55uM22251511\nr,i:i:::::::i:i::::,LLYY: ..,.........,.,.,::::::.", "color:transparent;text-shadow:0 0 1px rgb(240,107,134);");
+
+window.console && console.log && console.log("\n     欢迎加入信管创业基地 %c 面试时可附上console","font:15px/20px '微软雅黑';  background-image: -webkit-linear-gradient(left, #147B96, #E6D205 25%, #147B96 50%, #E6D205 75%, #147B96);-webkit-text-fill-color: transparent;-webkit-background-clip: text; color:red;");
+
+window.console && console.log && console.log("\n     详情请见 http://xgcyjd2014.github.io ");
+
+
+
+
+/*!--------------------------------*\
    欧阳添加的功能(原生)
    @author 欧阳湘粤 (Owen)
    https://github.com/Numerhero/NumerHero.github.io
@@ -9,7 +23,7 @@
 
 
 
-console.log模糊
+// console.log模糊
 var _log = console.log;
 console.log = function() {
   _log.call(console, '%c' + [].slice.call(arguments).join(' '), 'color:transparent;text-shadow:0 0 6px rgba(0,0,0,.5);');
