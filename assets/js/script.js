@@ -361,8 +361,8 @@ function callback( data )
               $("#QR-Code").css("top",t);
               $("#QR-Code").css("width",'160');
               oQR.style.display = "block";
-              startMove(oQrImg , { width:150 , height :　150 , opacity:70})
-              startMove(oQR , { height :　160 , opacity:70});
+              startMove(oQrImg , { width:150 , height :　150 , opacity:90})
+              startMove(oQR , { height :　160 , opacity:90});
             }
 
             oWeixin.onmouseout = function()

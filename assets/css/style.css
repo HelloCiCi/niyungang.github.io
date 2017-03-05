@@ -404,7 +404,7 @@ animation-name: swing;
   #icon-email:before {
     content: "\e800"; }
 
-#icon-linkedin {
+#icon-github {
   border-left: 1px solid #525965; }
 
 
@@ -886,9 +886,9 @@ iframe {
     #post__share > .fontello:hover, #post__share > .post__toc-li:hover:before {
       box-shadow: 0 0 0 2px rgba(125, 139, 153, 0.15); }
 
-#icon-github {
+#icon-linkedin {
   margin-left: -90px; }
-  #icon-github:hover {
+  #icon-linkedin:hover {
     color: #4099ff; }
 
 #icon-twitter {
