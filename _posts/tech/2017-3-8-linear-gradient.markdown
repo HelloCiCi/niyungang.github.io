@@ -11,7 +11,7 @@ keywords: 技术, 动画, css
 
 ## 实现文字流光效果使用的属性：
 
-background-image: -webkit-linear-gradient(left, #3498db, #f47920 10%, #d71345 20%, #f7acbc 30%, #ffd400 40%, #3498db 50%, #f47920 60%, #d71345 70%, #f7acbc 80%, #ffd400 90%, #3498db); 渐变背景，此处为能无缝拼接的渐变 即0~100%
+background-image: -webkit-linear-gradient(left, red, yellow 25%, blue 50%, green 75%, red 100%); 渐变背景，此处为能无缝拼接的渐变 即0~100%
 
 color: transparent;   文字填充色为透明。
 
