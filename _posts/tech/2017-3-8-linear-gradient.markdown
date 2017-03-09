@@ -11,13 +11,15 @@ keywords: 技术, 动画, css
 
 ## 实现文字流光效果使用的属性：
 
-background-image  
+background-image: -webkit-linear-gradient(left, #3498db, #f47920 10%, #d71345 20%, #f7acbc 30%, #ffd400 40%, #3498db 50%, #f47920 60%, #d71345 70%, #f7acbc 80%, #ffd400 90%, #3498db); 渐变背景，此处为能无缝拼接的渐变 即0~100%
 
--webkit-text-fill-color
+color: transparent;   文字填充色为透明。
 
--webkit-background-clip
+-webkit-text-fill-color: transparent;    
 
--webkit-background-size
+-webkit-background-clip: text; 背景剪裁为文字，相当于用背景填充文字 CSS3新属性。
+
+-webkit-background-size: 200% 100%; 背景图片向水平方向扩大一倍，这样background-position才有移动与变化的空间。
 
 -webkit-animation
 
@@ -27,5 +29,5 @@ IE浏览器不支持-webkit-text-fill-color,因此，该效果在IE浏览器中�
 
 ## codepen展示：
 
-<iframe height='265' scrolling='no' title='CSS文字流光效果' src='//codepen.io/niyungang/embed/EWZxNE/?height=265&theme-id=dark&default-tab=html&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/niyungang/pen/EWZxNE/'>CSS文字流光效果</a> by 倪云港 (<a href='http://codepen.io/niyungang'>@niyungang</a>) on <a href='http://codepen.io'>CodePen</a>.
+<iframe height='265' scrolling='no' title='CSS文字流光效果' src='//codepen.io/niyungang/embed/oZBNxa/?height=265&theme-id=dark&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/niyungang/pen/oZBNxa/'>CSS文字流光效果</a> by 倪云港 (<a href='http://codepen.io/niyungang'>@niyungang</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
