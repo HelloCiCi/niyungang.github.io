@@ -7,9 +7,13 @@ keywords: 技术, javascript, js
 
 ## 打印字符串
 
-~~~
+```html
 	console.log("I am a 凡人");
-~~~
+```
+
+{% highlight ruby %}
+console.log("I am a 凡人");
+{% endhighlight %}
 
 ## 打印提示消息
 
