@@ -353,8 +353,8 @@ animation-name: swing;
   .tags__li.active {
     margin-right: -1px;
     color: #fafafa;
-    background: #C3B090;
-    border-right: 1px solid #C3B090;
+    background: #DCDCD2;
+    border-right: 1px solid #DCDCD2;
     border-radius: 5px 0 0 5px;
     position: relative;
     -webkit-transition: none;
@@ -364,7 +364,7 @@ animation-name: swing;
     transition: none; }
     .tags__li.active:hover {
       color: #fafafa;
-      background: #C3B090; }
+      background: #DCDCD2; }
     .tags__li.active:before, .tags__li.active:after {
       content: "";
       width: 6px;
@@ -374,13 +374,13 @@ animation-name: swing;
       right: -3px; }
     .tags__li.active:before {
       top: -6px;
-      border-right: 2px solid #C3B090;
-      border-bottom: 2px solid #C3B090;
+      border-right: 2px solid #DCDCD2;
+      border-bottom: 2px solid #DCDCD2;
       border-radius: 0 0 6px 0; }
     .tags__li.active:after {
       bottom: -6px;
-      border-right: 2px solid #C3B090;
-      border-top: 2px solid #C3B090;
+      border-right: 2px solid #DCDCD2;
+      border-top: 2px solid #DCDCD2;
       border-radius: 0 6px 0 0; }
 
 #tags__bottom {
