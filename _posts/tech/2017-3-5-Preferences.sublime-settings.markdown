@@ -7,6 +7,8 @@ keywords: 技术, 翻译
 
 ## Sublime Text 3 设置翻译
 
+{% highlight ruby %}
+
     // 主题文件的路径
     "color_scheme": "Packages/User/SublimeLinter/Solarized (Dark) (SL).tmTheme",
 
@@ -293,3 +295,5 @@ keywords: 技术, 翻译
 
     // 要忽略的插件
     "ignored_packages": ["Vintage"]
+    
+{% endhighlight %}
