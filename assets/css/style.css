@@ -54,14 +54,14 @@
   .box{
     width:100%;
     height: 100%;
-    background: #D7CCB8;
+    background: #C3B090;
     position: absolute;
   }
   .header_progress_avatar
   {
     width:500px;
     height:500px;
-    background: url(../img/progress_pic.jpg) 0 no-repeat;
+    background: url(../img/progress_pic.jpg) -10px -10px no-repeat;
     margin:40px auto;
     border-radius: 50%;
     box-shadow: 0 0 4px 4px white, 0 0 4px 4px #eee;
@@ -353,8 +353,8 @@ animation-name: swing;
   .tags__li.active {
     margin-right: -1px;
     color: #fafafa;
-    background: #D7CCB8;
-    border-right: 1px solid #D7CCB8;
+    background: #C3B090;
+    border-right: 1px solid #C3B090;
     border-radius: 5px 0 0 5px;
     position: relative;
     -webkit-transition: none;
@@ -364,7 +364,7 @@ animation-name: swing;
     transition: none; }
     .tags__li.active:hover {
       color: #fafafa;
-      background: #D7CCB8; }
+      background: #C3B090; }
     .tags__li.active:before, .tags__li.active:after {
       content: "";
       width: 6px;
@@ -374,13 +374,13 @@ animation-name: swing;
       right: -3px; }
     .tags__li.active:before {
       top: -6px;
-      border-right: 2px solid #D7CCB8;
-      border-bottom: 2px solid #D7CCB8;
+      border-right: 2px solid #C3B090;
+      border-bottom: 2px solid #C3B090;
       border-radius: 0 0 6px 0; }
     .tags__li.active:after {
       bottom: -6px;
-      border-right: 2px solid #D7CCB8;
-      border-top: 2px solid #D7CCB8;
+      border-right: 2px solid #C3B090;
+      border-top: 2px solid #C3B090;
       border-radius: 0 6px 0 0; }
 
 #tags__bottom {
