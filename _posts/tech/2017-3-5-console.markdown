@@ -7,23 +7,19 @@ keywords: 技术, javascript, js
 
 ## 打印字符串
 
-```html
-	console.log("I am a 凡人");
-```
-
 {% highlight ruby %}
 console.log("I am a 凡人");
 {% endhighlight %}
 
 ## 打印提示消息
 
-```html
-	console.info("Yes, you are a 凡人");
+```
+console.info("Yes, you are a 凡人");
 ```
 
 ## 打印警告消息
 
-```html
+``` html
 	console.warn("凡人你居然敢窥视我");
 ```
 
