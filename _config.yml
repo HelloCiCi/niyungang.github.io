@@ -1,5 +1,5 @@
 highlighter: rouge
-line_numbers: true 
+line_numbers: true
 markdown: kramdown
 kramdown:
   input: GFM
