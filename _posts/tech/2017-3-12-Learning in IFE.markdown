@@ -21,6 +21,10 @@ keywords: 技术, IFE
 
 [任务四：定位和居中问题](https://github.com/niyungang/IFE/blob/master/HTML/demo4.html)
 
+[任务五：零基础HTML及CSS编码（二）](https://github.com/niyungang/IFE/blob/master/HTML/demo5.html)
+
+[任务六：通过HTML及CSS模拟报纸排版](https://github.com/niyungang/IFE/blob/master/HTML/demo6/html/demo6.html)
+
 ## 百度糯米前端技术学院
 
 [有趣的鼠标悬浮模糊效果]()
