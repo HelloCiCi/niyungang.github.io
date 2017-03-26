@@ -5,6 +5,8 @@ category: 读书
 keywords: 读书
 ---
 
+![pic](/assets/img/read.jpg)
+
 ## 《JavaScript DOM编程艺术（第2版）》
 
 ![pic](/assets/img/jsdom.jpg)
@@ -21,3 +23,6 @@ keywords: 读书
 
 ![pic](/assets/img/csssecrets.jpg)
 
+## 《明朝那些事儿》
+
+![pic](/assets/img/mingchao.jpg)
