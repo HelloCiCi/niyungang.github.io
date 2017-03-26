@@ -1,0 +1,23 @@
+---
+layout: post
+title: 2017阅读书单
+category: 读书
+keywords: 读书
+---
+
+## 《JavaScript DOM编程艺术（第2版）》
+
+![pic](/assets/img/jsdom.jpg)
+
+## 《JavaScript高级程序设计（第3版）》
+
+![pic](/assets/img/jspro.jpg)
+
+## 《精通CSS高级Web标准解决方案（第2版）》
+
+![pic](/assets/img/csspro.jpg)
+
+## 《CSS揭秘》
+
+![pic](/assets/img/csssecrets.jpg)
+
