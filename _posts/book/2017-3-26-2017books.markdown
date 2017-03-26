@@ -5,6 +5,10 @@ category: 读书
 keywords: 读书
 ---
 
+“ I have read lots of books but forgotten most of them. What's the purpose of reading? ”
+
+“ When I was a child I ate a lot of food. Most of it is long gone and forgotten, but certainly some of it became my very bones and flesh. ”
+
 ![pic](/assets/img/read.jpg)
 
 ## 《JavaScript DOM编程艺术（第2版）》
