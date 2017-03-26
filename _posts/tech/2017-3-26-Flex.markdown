@@ -29,7 +29,7 @@ keywords: 技术, css, flex
 
 一个 Flexbox 的容器有两个轴：主轴 交叉轴。如下：
 
-![pic](/assets/img/pic_003.gif)
+![pic](/assets/img/pic_003.png)
 
 默认情况下容器中的每个元素都会沿着主轴自左向右一次排列。所以容器设置为 display: flex 后所有的 div 会排列在一行上
 
@@ -79,7 +79,7 @@ justify-content 是沿着主轴工作的，而 align-items 则是沿着交叉轴
 
 首先重置 flex-direction: row 两个轴展示如下：
 
-![pic](/assets/img/pic_001.gif)
+![pic](/assets/img/pic_003.png)
 
 align-items 有5个可选值：
 
@@ -100,7 +100,7 @@ align-items: baseline 时按照 p 标签的底部对齐
 
 align-items: baseline 时如果 div 内没有 p 标签或者 div 内没有文字或者子标签内没有文字将按照每个 div 的底部对齐。如下：
 
-![pic](/assets/img/pic_008.gif)
+![pic](/assets/img/pic_008.png)
 
 进一步理解主轴和交叉轴的区别，把 justify-content 和 align-items 合在一起，看看在 flex-direction 两种值下的效果
 
@@ -156,19 +156,19 @@ flex-basis 是通过主轴 (main axis) 来影响元素尺寸的
 
 首先设置每个元素 width 为 120px ，如下：
 
-![pic](/assets/img/pic_013.gif)
+![pic](/assets/img/pic_013.png)
 
 flex-grow 的默认值为 0，意味着每个元素不能在容器内增长 (grow) 他们的宽度
 
 如果设置 flex-grow: 1 呢，如下图：
 
-![pic](/assets/img/pic_014.gif)
+![pic](/assets/img/pic_014.png)
 
 每个元素在容器内均匀的充满了整个空间，flex-grow 的值覆盖了 width
 
 那 flex-grow: 1 到底意味着什么呢，如果我们改为 flex-grow: 999
 
-![pic](/assets/img/pic_015.gif)
+![pic](/assets/img/pic_015.png)
 
 完全一样，没有变化。那是因为 flex-grow 不是个绝对值，而是一个相对值。
 
@@ -186,7 +186,7 @@ flex-grow 的默认值为 0，意味着每个元素不能在容器内增长 (gro
 
 flex-grow 的值是按比例来计算的，比如设置每个元素 flex-grow: 4 ,第三个元素 flex-grow: 12, 其实和 1:3 一样的
 
-![pic](/assets/img/pic_017.gif)
+![pic](/assets/img/pic_017.png)
 
 flex-grow 和 flex-basis 一样是作用于主轴的。除非改变 flex-direction: column 否则元素只是改变宽度
 
