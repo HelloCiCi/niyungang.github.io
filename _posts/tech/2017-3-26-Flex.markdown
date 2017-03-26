@@ -142,7 +142,7 @@ flex-basis 控制元素的默认尺寸，然后再由其他 Flexbox 属性控制
 
 那 flex-basis 和 width 又有什么区别呢，因为 Flexbox 的容器有两个轴 如下：
 
-![pic](/assets/img/pic_003.gif)
+![pic](/assets/img/pic_003.png)
 
 flex-basis 是通过主轴 (main axis) 来影响元素尺寸的
 
