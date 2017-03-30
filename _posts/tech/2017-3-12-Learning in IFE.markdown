@@ -25,6 +25,8 @@ keywords: 技术, IFE
 
 [任务六：通过HTML及CSS模拟报纸排版](https://github.com/niyungang/IFE/blob/master/HTML/demo6/html/demo6.html)
 
+[任务十：Flexbox 布局练习](https://github.com/niyungang/IFE/blob/master/HTML/demo6/html/demo10.html)
+
 ## 百度糯米前端技术学院
 
 [有趣的鼠标悬浮模糊效果](https://github.com/niyungang/IFE/blob/master/%E9%BC%A0%E6%A0%87%E6%82%AC%E6%B5%AE%E6%A8%A1%E7%B3%8A%E6%95%88%E6%9E%9C/mydemo.html)
