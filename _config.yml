@@ -20,7 +20,7 @@ url: http://niyungang.github.io
 rss_url: /pages/atom.xml
 
 # disqus 设置
-disqus:
-  shortname: niyungang
+# disqus:
+#   shortname: niyungang
 
 # duoshuo 设置

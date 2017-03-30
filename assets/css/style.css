@@ -54,14 +54,14 @@
   .box{
     width:100%;
     height: 100%;
-    background: #C3B090;
+    background: #56BEA7;  //进度条背景 原#C3B090
     position: absolute;
   }
   .header_progress_avatar
   {
     width:500px;
     height:500px;
-    background: url(../img/progress_pic.jpg) -10px -10px no-repeat;
+    background: url(../img/progress_pic.jpg) -16px -20px no-repeat;
     margin:40px auto;
     border-radius: 50%;
     box-shadow: 0 0 4px 4px white, 0 0 4px 4px #eee;
