@@ -1,32 +1,35 @@
 ---
 layout: post
 title: Read the record
-category: 读书
-keywords: 读书, 记录
+category: ����
+keywords: ����, ��¼
 ---
 
-这里是阅读记录专区
+�������Ķ���¼ר��
 
-设置此专区的原因在于督促自己每天都要阅读和学习
+���ô�ר����ԭ�����ڶ����Լ�ÿ�춼Ҫ�Ķ���ѧϰ
 
-日日行，不怕千万里；常常做，不怕千万事
+�����У�����ǧ���������������ǧ����
 
-## 《JavaScript高级程序设计（第3版）》
+## ��JavaScript�߼�������ƣ���3�棩��
 
 ![pic](/assets/img/jspro.jpg)
 
-此书又名为"红宝书"。必须熟练掌握。
+��������Ϊ"�챦��"�������������ա�
 
-之前磕磕绊绊看了零碎的内容，现在我决定完完整整从头到尾过一遍。
+֮ǰ�Ŀİ���������������ݣ������Ҿ�������������ͷ��β��һ�顣
 
-| 日期        | 状态    |
-| --------    | -----:  |
-| 4.1         | 57      |
-| 苹果        | $1      |
-| 草莓        | $1      |
-
-
-|| *Year* || *Temperature (low)* || *Temperature (high)* ||
-|| 1900 || -10 || 25 ||
-|| 1910 || -15 || 30 ||
-|| 1920 || -10 || 32 ||
+<table>
+   <tr>
+      <td>����</td>
+      <td>״̬</td>
+   </tr>
+   <tr>
+      <td>4.1</td>
+      <td>P57</td>
+   </tr>
+   <tr>
+      <td>4.2</td>
+      <td>P65</td>
+   </tr>
+</table>
