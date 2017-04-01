@@ -1,9 +1,10 @@
-﻿---
+---
 layout: post
 title: Read the record
 category: 读书
 keywords: 读书, 记录
 ---
+
 
 这里是阅读记录专区
 
@@ -23,3 +24,18 @@ keywords: 读书, 记录
 |-------+-----+------| 
 | 3月5日 | 北京 | 姚明 | 
 | 3月7日 | 上海 | 韩寒 | 
+
+<table>
+	<th>
+		<td>日期</td>
+		<td>状态</td>
+	</th>
+	<tr>
+		<td>4.1</td>
+		<td>P57</td>
+	</tr>
+	<tr>
+		<td>4.2</td>
+		<td>P68</td>
+	</tr>
+</table>
