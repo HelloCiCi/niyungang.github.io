@@ -1,0 +1,17 @@
+---
+layout: post
+title: PS
+category: 技术
+keywords: 技术, PS
+---
+
+## 基地纳新宣传单
+
+原：
+
+![pic](/assets/img/PS/yuan.png)
+
+PS后：
+
+![pic](/assets/img/PS/hou.png)
+
