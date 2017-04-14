@@ -5,28 +5,50 @@ category: 读书
 keywords: 读书
 ---
 
+![pic](/assets/img/read.jpg)
+
 “ I have read lots of books but forgotten most of them. What's the purpose of reading? ”
 
 “ When I was a child I ate a lot of food. Most of it is long gone and forgotten, but certainly some of it became my very bones and flesh. ”
-
-![pic](/assets/img/read.jpg)
 
 ## 《JavaScript DOM编程艺术（第2版）》
 
 ![pic](/assets/img/jsdom.jpg)
 
+状态：已读
+
 ## 《JavaScript高级程序设计（第3版）》
 
 ![pic](/assets/img/jspro.jpg)
+
+状态：在读
 
 ## 《精通CSS高级Web标准解决方案（第2版）》
 
 ![pic](/assets/img/csspro.jpg)
 
+状态：已读
+
 ## 《CSS揭秘》
 
 ![pic](/assets/img/csssecrets.jpg)
 
+状态：在读
+
 ## 《明朝那些事儿》
 
 ![pic](/assets/img/mingchao.jpg)
+
+状态：在读
+
+## 《我可以咬一口吗》
+
+状态：在读
+
+## 《极简人类史》
+
+状态：在读
+
+## 《解忧杂货铺》
+
+状态：在读
