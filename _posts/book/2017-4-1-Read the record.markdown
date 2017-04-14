@@ -14,7 +14,7 @@ keywords: 读书, 记录
 
 ## 《JavaScript高级程序设计（第3版）》
 
-![pic](/assets/img/jspro.jpg)
+![pic](/assets/img/books/jspro.jpg)
 
 此书又名为"红宝书"。必须熟练掌握。
 
