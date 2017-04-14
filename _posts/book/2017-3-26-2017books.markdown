@@ -16,11 +16,17 @@ keywords: 读书
 ![pic](/assets/img/books/jsdom.jpg)
 
 原作名: DOM Scripting: Web Design with JavaScript and the Document Object Model
+
 作者:  [英] Jeremy Keith / [加蓬] Jeffrey Sambells 
+
 译者:  王建桥 / 杨涛 / 杨晓云 
+
 出版年: 2011-4
+
 类型：技术、前端、JS
+
 方式：纸质版
+
 状态：已读
 
 ## 《JavaScript高级程序设计（第3版）》
@@ -28,10 +34,15 @@ keywords: 读书
 ![pic](/assets/img/books/jspro.jpg)
 
 原作名: Professional JavaScript for Web
+
 作者:  [美国] Nicholas C·Zakas 
+
 出版年: 2012-3-29
+
 类型：技术、前端、JS
+
 阅读方式：书籍
+
 状态：在读
 
 ## 《精通CSS高级Web标准解决方案（第2版）》
@@ -39,11 +50,17 @@ keywords: 读书
 ![pic](/assets/img/books/csspro.jpg)
 
 原作名: CSS Mastery: Advanced Web Standards Solutions
+
 作者:  [英] Andy Budd / [英] Simon Collison / [英] Cameron Moll 
+
 译者:  陈剑瓯 
+
 出版年: 2010-5
+
 类型：技术、前端、CSS
+
 阅读方式：书籍
+
 状态：已读
 
 ## 《CSS揭秘》
@@ -51,11 +68,17 @@ keywords: 读书
 ![pic](/assets/img/books/csssecrets.jpg)
 
 原作名: CSS Secrets: Better Solutions to Everyday Web Design Problems
+
 作者:  [希腊] Lea Verou 
+
 译者:  CSS魔法 
+
 出版年: 2016-4
+
 类型：技术、前端、CSS
+
 阅读方式：书籍
+
 状态：在读
 
 ## 《明朝那些事儿》
@@ -63,10 +86,15 @@ keywords: 读书
 ![pic](/assets/img/books/mingchao.jpg)
 
 副标题: 洪武大帝
+
 作者:  当年明月 
+
 出版年: 2006-9
+
 类型：历史、明朝、中国历史、小说
+
 阅读方式：电子版
+
 状态：已读
 
 ## 《我可以咬一口吗》
@@ -74,10 +102,15 @@ keywords: 读书
 ![pic](/assets/img/books/wkyyykm.jpg)
 
 作者:  [美国] 莉兹·克里莫 
+
 译者:  周高逸 
+
 出版年: 2016-4
+
 类型：绘本、治愈、漫画、温暖
+
 阅读方式：书籍
+
 状态：在读
 
 ## 《极简人类史》
@@ -85,11 +118,17 @@ keywords: 读书
 ![pic](/assets/img/books/jjrls.jpg)
 
 副标题: 从宇宙大爆炸到21世纪
+
 作者:  [美国] 大卫·克里斯蒂安 
+
 译者:  王睿 
+
 出版年: 2016-4
+
 类型：历史、人类史、世界史、全球史、科普
+
 阅读方式：书籍
+
 状态：在读
 
 ## 《解忧杂货铺》
@@ -97,8 +136,13 @@ keywords: 读书
 ![pic](/assets/img/books/jyzhp.jpg)
 
 作者: [日] 东野圭吾
+
 译者:  李盈春 
+
 出版年: 2014-5
+
 类型：治愈、小说、温暖、推理、日本文学
+
 阅读方式：书籍
+
 状态：在读
