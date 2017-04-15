@@ -14,6 +14,8 @@ title: HOME
 
 It takes time to get good at coding.
 
+燕雀安知鸿鹄之志哉？
+
 ## 关于我
 误入前端，摸爬滚打。
 
